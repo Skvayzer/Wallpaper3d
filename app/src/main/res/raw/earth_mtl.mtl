@@ -1,0 +1,30 @@
+newmtl 01___Default
+Ns 10.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka earth.jpg
+map_Kd earth.jpg
+map_Ke night_lights.jpg
+map_bump bump.jpg
+bump bump.jpg
+newmtl 02___Default
+Ns 10.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 2
+Ka 0.5882 0.5882 0.5882
+Kd 0.5882 0.5882 0.5882
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Kaclouds.jpg
+map_Kd clouds.jpg
+map_d clouds.jpg
